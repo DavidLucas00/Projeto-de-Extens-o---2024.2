@@ -1,5 +1,5 @@
 # Projeto de Extensão 2024.2
-# Introdução#
+# Introdução
 *Economize tempo e cuide do seu estilo com a nossa barbearia!*  
 
 Com o nosso aplicativo, você agenda seu horário de forma rápida e prática, sem perder tempo. Escolha o serviço, o profissional e o horário que mais combina com a sua rotina.  
@@ -14,7 +14,7 @@ Experimente e leve sua experiência de barbearia para outro nível! 💈
 
 
 
-## Link para os documentos:##
+## Link para os documentos:
 https://drive.google.com/drive/folders/1YvNFaWkfLfbZzsplrP3THmdHzE8MjjgD
 
 
@@ -40,6 +40,6 @@ Pronto! Seu projeto estará rodando localmente no XAMPP.
 
 # Equipe:
 
-David Lucas Meneses Layme
+David Lucas Meneses Layme e
 Chrystian Cavalcante Soares
 
