@@ -1,5 +1,5 @@
 # projeto_de_extens-o
-Introdução
+# Introdução#
 *Economize tempo e cuide do seu estilo com a nossa barbearia!*  
 
 Com o nosso aplicativo, você agenda seu horário de forma rápida e prática, sem perder tempo. Escolha o serviço, o profissional e o horário que mais combina com a sua rotina.  
@@ -14,27 +14,27 @@ Experimente e leve sua experiência de barbearia para outro nível! 💈
 
 
 
-##Link para os documentos:##
+## Link para os documentos:##
+https://drive.google.com/drive/folders/1YvNFaWkfLfbZzsplrP3THmdHzE8MjjgD
 
 
-
-Linguagens utilizadas:
+# Linguagens utilizadas:
 HTML
 CSS
 
 
 
-Ferramentas utilizadas:
+# Ferramentas utilizadas:
 Figma
 Vs Code
 Github
 
 
-Instalação:
+# Instalação:
 
 
 
-Equipe:
+# Equipe:
 
 David Lucas Meneses Layme
 Chrystian Cavalcante Soares
