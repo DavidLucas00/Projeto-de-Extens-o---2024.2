@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.menu-lateral {
+    width: 20%;
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo {
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+.menu {
+    list-style: none;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.menu li {
+    padding: 10px 0;
+    border-bottom: 1px solid white;
+    cursor: pointer;
+}
+
+.fale-conosco {
+    margin-top: auto;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.conteudo {
+    width: 80%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.servico {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: #333;
+    cursor: pointer;
+}
+
+.servico h3 {
+    margin-bottom: 5px;
+}
+
+.arrow {
+    font-size: 20px;
+}
