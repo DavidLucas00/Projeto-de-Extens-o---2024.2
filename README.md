@@ -17,7 +17,8 @@ Link para os documentos:
 Linguagens utilizadas:
 HTML
 CSS
-Ferramentas utilizadas
+
+Ferramentas utilizadas:
 Figma
 
 Instalação:
