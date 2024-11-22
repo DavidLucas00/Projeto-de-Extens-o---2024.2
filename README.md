@@ -28,7 +28,14 @@ Figma, Vs Code e Github
 
 
 # Instalação:
+### **Instalação no XAMPP **
 
+1. **Baixe e extraia o projeto**: Acesse o repositório e faça o download como ZIP. Extraia para uma pasta.  
+2. **Mova os arquivos**: Coloque a pasta do projeto em `C:\xampp\htdocs\`.  
+3. **Inicie o Apache**: Abra o XAMPP, inicie o módulo **Apache**.  
+4. **Acesse no navegador**: Vá para `http://localhost/nome_da_pasta/index.html`.  
+
+Pronto! Seu projeto estará rodando localmente no XAMPP.
 
 
 # Equipe:
