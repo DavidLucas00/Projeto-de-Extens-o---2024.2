@@ -12,17 +12,27 @@ Além disso, você pode adquirir produtos exclusivos para barba, cabelo e cuidad
 
 Experimente e leve sua experiência de barbearia para outro nível! 💈
 
+
+
 Link para os documentos: 
+
+
 
 Linguagens utilizadas:
 HTML
 CSS
 
+
+
 Ferramentas utilizadas:
 Figma
 Vs Code
 
+
+
 Instalação:
+
+
 
 Equipe:
 
