@@ -20,6 +20,7 @@ CSS
 
 Ferramentas utilizadas:
 Figma
+Vs Code
 
 Instalação:
 
