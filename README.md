@@ -19,15 +19,12 @@ https://drive.google.com/drive/folders/1YvNFaWkfLfbZzsplrP3THmdHzE8MjjgD
 
 
 # Linguagens utilizadas:
-HTML
-CSS
+HTML e CSS
 
 
 
 # Ferramentas utilizadas:
-Figma
-Vs Code
-Github
+Figma, Vs Code e Github
 
 
 # Instalação:
